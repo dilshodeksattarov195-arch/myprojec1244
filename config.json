@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcetch",
+        "uuid": 6028424,
+        "checksum": "44f7t"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
